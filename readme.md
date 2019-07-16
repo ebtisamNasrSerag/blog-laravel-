@@ -1,3 +1,4 @@
+<p align="center">put project on server then you can run http://localhost/blog_laravel/public you can login by sam@gmail.com password : asd <br> you login as admin then you can show admin tab that you can see all users and give permission to them </p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
